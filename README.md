@@ -112,18 +112,8 @@
   </p>
 </div>
 
-<p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/TU_REPOSO_RAPPI" target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
+<p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/rappi-plus-analytics) target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
 
 <hr style="border: 0; border-top: 1px solid #e5e7eb; margin: 25px 0;">
 
-<!-- PROYECTO 2 -->
-<h2 style="font-size: 1.6em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 10px;">Análisis de retención y conversión en E-commerce</h2>
-<p>Identificación de factores clave en la conversión y comportamiento de retención mensual utilizando Common Table Expressions (CTEs) y funciones de ventana en SQL.</p>
-<div style="margin-top: 10px;">
-  <span class="badge-btn">SQL</span>
-  <span class="badge-btn">POSTGRESQL</span>
-  <span class="badge-btn">ANALYTICS</span>
-</div>
-</td>
-</tr>
-</table>
+
