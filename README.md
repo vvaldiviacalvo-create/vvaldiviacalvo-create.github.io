@@ -112,7 +112,9 @@
   </p>
 </div>
 
-<p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/rappi-plus-analytics) target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
+<p style="margin-bottom: 30px;">
+  <a href="https://github.com/vvaldiviacalvo-create/rappi-plus-analytics" target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a>
+</p>
 
 <hr style="border: 0; border-top: 1px solid #e5e7eb; margin: 25px 0;">
 
